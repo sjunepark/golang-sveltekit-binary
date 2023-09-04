@@ -1,0 +1,7 @@
+bin
+dist
+svelitekit/.svelte-kit
+svelitekit/node_modules
+golang/src/assets/frontend
+
+.DS_Store
